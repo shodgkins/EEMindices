@@ -11,6 +11,9 @@ All of your datafiles must have a common string in the filename, e.g. "porewater
 
 **Required packages:** This function uses the `colorRamps` package to make EEM plots with the familiar color scheme used by FLToolbox.
 
+An example dataset (27 EEM datafiles) is included in the folder "example_data". Results for these spectra are published in the following manuscript:
+Hodgkins S. B., Tfaily M. M., Podgorski D. C., McCalley C. K., Saleska S. R., Crill P. M., Rich V. I., Chanton J. P. and Cooper W. T. (2016) Elemental composition and optical properties reveal changes in dissolved organic matter along a permafrost thaw chronosequence in a subarctic peatland. Geochim. Cosmochim. Acta 187, 123–140.
+
 ## Output data
 
 The function outputs a .csv file with the following indices:
